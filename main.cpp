@@ -3,7 +3,6 @@
 #include "Board.hpp" //Board(size, bombs)
 #include "EndGameException.hpp"
 #include "Array2d.hpp"
-#include "BooEditLog.hpp"
 #include "Game.hpp"
 
 
@@ -22,7 +21,6 @@ int main()
 		if (input == "EZ")
 		{
 			game = new Board(9, 10);
-			booEditLog("ez game created");
 		}
 		else if (input == "MED")
 		{

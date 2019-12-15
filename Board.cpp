@@ -7,7 +7,6 @@
 #include <stdlib.h> 
 #include<time.h> 
 
-#include "BooEditLog.hpp"
 
 Board::Board(int s, int nbs)
 : size{s}, nBombs{nbs}, board{new Array2d{s, s}}, tilesLeft{s * s - nbs},
