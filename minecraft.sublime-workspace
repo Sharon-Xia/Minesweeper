@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 1074,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Board.hpp",
+			"settings":
+			{
+				"buffer_size": 624,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Array2D.hpp",
+			"settings":
+			{
+				"buffer_size": 864,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tile.hpp",
+			"settings":
+			{
+				"buffer_size": 449,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "#ifndef TILE_HPP"
+			}
+		},
+		{
+			"file": "tile_Bomb.hpp",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Board.cpp",
+			"settings":
+			{
+				"buffer_size": 1848,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "#include \"board.hpp\""
+			}
+		}
+	],
+	"build_system": "Packages/MinGW-w64.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/MinGW-w64.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/MinGW-w64.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: C++"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Sharon Xia/OneDrive/Stuffoodles/Minecraft"
+	],
+	"file_history":
+	[
+		"/C/Users/Sharon Xia/OneDrive/Stuffoodles/Minecraft/Array2D.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Stuffoodles/Minecraft/EndGameException.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Stuffoodles/Minecraft/Game.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Stuffoodles/Minecraft/tile_Bomb.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/13 StaticMembers/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/13 StaticMembers/app/Widget.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/13 StaticMembers/app/Widget.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/11 Inheritance/app/Person.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/11 Inheritance/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/12 AbstractBaseClasses/app/Circle.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/12 AbstractBaseClasses/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/12 AbstractBaseClasses/app/Rectangle.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/12 AbstractBaseClasses/app/Shape.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/15 RAII/app/SmartIntPtr.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/16 Templates/app/Point.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/16 Templates/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/14 ContractsAndExceptions/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/14 ContractsAndExceptions/app/DynamicTriple.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/15 RAII/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/14 ContractsAndExceptions/gtest/DynamicTripleTests.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/14 ContractsAndExceptions/gtest/gtestmain.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/11 Inheritance/app/Person.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/11 Inheritance/app/Student.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/11 Inheritance/app/Student.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/09 WellBehavedClasses/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/09 WellBehavedClasses/app/ArrayList.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/10 StandardLibrary/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj3/HashMap.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj3/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj3/interface.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj3/interface.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/testsublime/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj3/HashMap.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Backups From VM/proj3/app/HashMap.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Backups From VM/proj3/app/interface.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Backups From VM/proj3/app/interface.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Backups From VM/proj3/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Backups From VM/proj3/app/HashMap.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/WellBehavedClasses.tar/app/ArrayList.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj2/calc.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj2/calc.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj2/calc.hpp.gch",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/WellBehavedClasses.tar/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/WellBehavedClasses.tar/app/ArrayList.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj3/Bucket.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/StandardLibrary/app/main.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj3/commands.cpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Projects/proj3/commands.hpp",
+		"/C/Users/Sharon Xia/OneDrive/Fall 2019/ICS 45C/Lecture Codes/StandardLibrary.tar.gz",
+		"/C/Users/Sharon Xia/Desktop/Inf43Hw2/file2.txt",
+		"/C/Users/Sharon Xia/Desktop/Inf43Hw2/file1.txt",
+		"/C/Users/Sharon Xia/AppData/Roaming/Sublime Text 3/Packages/User/MinGW-w64.sublime-build",
+		"/C/Users/Sharon Xia/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Sharon Xia/AppData/Roaming/Sublime Text 3/Packages/User/buildsystem.sublime-build",
+		"/C/Users/Sharon Xia/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.last-run",
+		"/C/Users/Sharon Xia/AppData/Roaming/Sublime Text 3/Packages/User/MinGW-w64.sublime-build.txt",
+		"/C/Users/Sharon Xia/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Sharon Xia/AppData/Roaming/Sublime Text 3/Packages/User/a.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Board.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Array2D.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "tile.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#ifndef TILE_HPP",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 166.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tile_Bomb.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Board.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include \"board.hpp\"",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.557588482304,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 361.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/MinGW-w64.sublime-build",
+	"project": "minecraft.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
